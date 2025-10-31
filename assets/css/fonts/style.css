@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'fre3of9x';
+  src: url('/path-to/fre3of9x.woff2') format('woff2'),
+       url('/path-to/fre3of9x.woff') format('woff'),
+       url('/path-to/fre3of9x.ttf')  format('truetype');
+}
+
+body {
+  font-family: 'fre3of9x', sans-serif;
+}

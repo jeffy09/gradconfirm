@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'TH Sarabun Pali';
+    src: url('THSarabunPali.eot');
+    src: url('THSarabunPali.eot?#iefix') format('embedded-opentype'),
+        url('THSarabunPali.woff2') format('woff2'),
+        url('THSarabunPali.woff') format('woff'),
+        url('THSarabunPali.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
